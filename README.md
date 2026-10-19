@@ -406,3 +406,5 @@ The database is automatically pre-seeded with a complete portfolio matching the 
 * **Enhanced Client-Side Error Decoding (`src/services/api.ts`):**
   * Updated client `request()` utility with intelligent status decoding: provides human-friendly explanations for initialization warmups (502/503), route misconfigurations (404), expired tokens (401), and validation issues instead of generic parser errors.
 
+
+
