@@ -1,0 +1,6 @@
+{
+  "name": "FlarePort - Developer Portfolio Builder",
+  "description": "Production-ready developer portfolio builder with dynamic theme customization, glassmorphic UI, live editing, and public portfolio pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
